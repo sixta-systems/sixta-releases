@@ -1,0 +1,8 @@
+Copyright (c) 2026 Sixta Systems Inc. All rights reserved.
+
+This software is proprietary and confidential. It is not open source.
+No licence or other right is granted by making it available for download.
+Use, copying, modification, reverse engineering and redistribution are
+permitted only under a written agreement signed by Sixta Systems Inc.
+The software is provided without warranty of any kind except as set out
+in such an agreement. Contact: finance@sixta.ai
